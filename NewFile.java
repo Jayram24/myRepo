@@ -3,4 +3,5 @@ public class NewFile {
 	public static final int p = 1;
 	//new comment in master
 	public void comment1() {}
+	public void comment2() {}
 }
