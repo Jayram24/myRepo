@@ -4,4 +4,6 @@ public class NewFile {
 	//new comment in master
 	public void comment1() {}
 	public void comment2() {}
+	//One more comment
+			//	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 }
