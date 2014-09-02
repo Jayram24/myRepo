@@ -6,5 +6,6 @@ public class NewFile {
 	public void comment1() {}
 	public void comment2() {}
 	//One more comment
+	// new int branch
 			//	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 }
